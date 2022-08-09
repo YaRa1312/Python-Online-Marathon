@@ -8,6 +8,7 @@ import unittest
 
 
 def quadratic_equation(a, b, c):
+    print(a)
     pass
 
 
